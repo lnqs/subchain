@@ -4,6 +4,8 @@
 <p align="right">
   <img src="https://travis-ci.org/lnqs/subchain.svg?branch=master">
   <img src="https://coveralls.io/repos/github/lnqs/subchain/badge.svg?branch=master">
+  <img src="https://badge.fury.io/lnqs/subchain.svg">
+  <img src="https://david-dm.org/lnqs/subchain.svg">
 </p>
 
 # Subchain
