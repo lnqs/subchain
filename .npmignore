@@ -1,0 +1,9 @@
+.git/
+.idea/
+.nyc_output/
+.travis.yml
+dist/*Spec*
+resources/
+src/
+tsconfig.json
+tslint.json
